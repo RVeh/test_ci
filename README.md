@@ -63,8 +63,3 @@ Die zugrunde liegende Modulstruktur trennt konsequent:
 - Stil (Layout)
 
 Änderungen an Stil oder Setzungen wirken systemweit.
-
----
-
-Dieses Projekt ist als didaktische Grundlage
-für Schule, Hochschule und Weiterbildung gedacht.
