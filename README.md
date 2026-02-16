@@ -23,6 +23,8 @@ Reimund Vehling
 - 02_ablehnungsbereich.ipynb
 - 01_ci_ellipse.ipynb 
 
+Die Programme sind gekapselt. Im Verzeichnis *tests* befinden die die Programme für 02_ablehnungsbereich.ipynb, in der Datei *ci_intervals.py* die benötigten Programme für 01_ci_ellipse.ipynb.
+
 --- 
 
 ## Ausführung
