@@ -8,22 +8,40 @@ Im Menü `Run| Run all Cells` drücken, um die Programme zu starten.
 
 --- 
 
-## Hypothesentests – Modell, Setzung, Wirkung
+##  Inhalt
+Zwei Beispiel-Programme, zum Vortrag 
+###  Mehr als ein Testergebnis: Konfidenzintervalle im Unterricht erlebbar machen
+Von der Ja/Nein-Entscheidung des Hypothesentests zur Intervallschätzung – praxisnah mit Zollstock,
+Ellipse, GeoGebra und Python
+Reimund Vehling
+20.02.2026
 
-Dieses Projekt enthält vier aufeinander aufbauende Programme
-zur Darstellung und Untersuchung von Hypothesentests
-am Beispiel des Binomialmodells.
+- 
+- Geometrische Erklärung von Konfidenzintervallen
+- Klare Abgrenzung zum Prognoseintervall
+- Schnitte als Strukturprinzip
+- Verfahrenswahrscheinlichkeit erst durch Wiederholung
 
-Die Programme folgen einer einheitlichen Struktur:
+\textbf{Strukturiertes Programm}
 
-**Modell → Setzung → (ggf.) Beobachtung**
+\begin{itemize}
+  \item Trennung von Modell, Geometrie und Style
+  \item Parametrisierung statt Rezept
+  \item Referenzfähige PDF-Grafiken
+  \item Reproduzierbar (Binder, Seed)
+\end{itemize}
+}
 
-Ziel ist nicht die rechnerische Durchführung,
-sondern das Sichtbarmachen der zugrunde liegenden Struktur.
+\end{columns}
 
----
+\vspace{0.6em}
 
-## Inhalte - Hypothesentests
+\small
+\centering
+\uncover<2->{
+Didaktisches System: Erklärung – Visualisierung – Simulation – Referenz.
+}
+\end{frame}
 
 ### 1. Verteilung
 Darstellung der Binomialverteilung
