@@ -442,6 +442,7 @@ def plot_pi(
         fig.savefig(save, bbox_inches="tight")
 
     plt.show()
+    plt.close(fig)
     return h_L, h_R
 
 # ================ Konfidenzellipse - Wilscon_CI ============
@@ -632,6 +633,7 @@ def plot_ci(
         fig.savefig(save, bbox_inches="tight")
 
     plt.show()
+    plt.close(fig)
     return p_L, p_R
     
 # ============================================================
