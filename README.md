@@ -39,15 +39,24 @@ und einzelne Zellen erneut ausgeführt werden.
 
 ---
 
-## Struktur
+### Strukturprinzip
 
-Die zugrunde liegende Modulstruktur trennt konsequent:
+Alle Programme folgen demselben Grundschema:
 
-- Modell 
-- Geometrie 
-- Entscheidung 
-- Darstellung 
-- Stil 
+- **Modell**  
+  (statistische Annahmen, feste Parameter)
+
+- **Setzung**  
+  (konkrete Stichprobe oder bewusstes Weglassen einer Setzung)
+
+- **Geometrie**  
+  (Darstellungsraum, Skalierung, Projektionen)
+
+- **Darstellung**  
+  (rein optische Entscheidungen)
+
+Diese Trennung ist bewusst gewählt und zieht sich durch alle Notebooks
+und Funktionen. Sie dient der Klarheit und der fachlichen Ehrlichkeit.
 
 Änderungen an Stil oder Setzungen wirken systemweit.
 
